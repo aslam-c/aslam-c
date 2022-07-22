@@ -16,41 +16,28 @@
 <br>
 <h2 align="left">⚒️ Tech</h2>
 
-> I have experience working with these languages, tools etc...
+> I have experience working with these languages, libraries, tools etc...
 
-<table>
-  <tr>
-    <td align="center" width="48">
-      <a href="#">
-        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-    </td>
-    <td align="center" width="48">
-      <a href="#">
-        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-    </td>
-    <td align="center" width="48">
-      <a href="#" >
-        <img src="./img/reactjs.svg" width="48" height="48" alt="React" />
-      </a>
-    </td>
-    <td align="center" width="48">
-      <a href="#" >
-        <img src="./img/nextjs.svg" width="48" height="48" alt="React" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    
-  </tr>
-</table>
+<a href="#">
+  <img src="./img/javascript.svg" width="64" height="64" alt="JavaScript" />
+</a>
+<a href="#">
+  <img src="./img/typescript.svg" width="64" height="64" alt="TypeScript" />
+</a>
+<a href="#" >
+  <img src="./img/reactjs.svg" width="64" height="64" alt="React" />
+</a>
+<a href="#" >
+  <img src="./img/nextjs.svg" width="64" height="64" alt="React" />
+</a>
+  
+<br/>
 <br/>
 
 <h2 align="left">💬 Contact Me</h3>
 <p align="left">
-  <a href="mailto:pawel.tymczuk@gmail.com"><img src="https://github.com/LetItRock/LetItRock/blob/master/img/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
-  <a href="https://github.com/LetItRock"><img src="https://github.com/LetItRock/LetItRock/blob/master/img/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
-  <a href="https://in.linkedin.com/in/paweltymczuk"><img src="https://github.com/LetItRock/LetItRock/blob/master/img/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/paweltymczuk"><img src="https://github.com/LetItRock/LetItRock/blob/master/img/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
+  <a href="mailto:pawel.tymczuk@gmail.com"><img src="./img/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
+  <a href="https://github.com/LetItRock"><img src="./img/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
+  <a href="https://in.linkedin.com/in/paweltymczuk"><img src="./img/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/paweltymczuk"><img src="./img/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
 </p>
