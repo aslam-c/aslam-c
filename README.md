@@ -7,9 +7,10 @@
 - 💼 Currently working as independent contractor for <a href="https://www.retentionscience.com/">Retention Science</a> by <a href="https://www.constantcontact.com/">Constant Contact</a>
 - 👨‍💻 I have more than 8 years of professional experience
 - 🏢 Worked for companies like\*: Constant Contact, Retention Science, Grape Up, Porsche, Swisscom, Allstate, Arity, Avaya, Cummins, Roam Robotics, Prismake
-- 💡 At work I use: TypeScript, React, NodeJS, Nx, React Testing Library, Cypress and a little Ruby, Rails and MySQL
+- 💡 At work I use: TypeScript/JavaScript, React, NodeJS, Nx, React Testing Library, Cypress and a little Ruby, Rails and MySQL
 - 🌍 Based in Kraków, Poland 🇵🇱
 - 👨‍👩‍👧 Husband and father
+- 😎 AMA
 
 <h6>* as the Grape Up employee, I had an opportunity to work on projects for companies like Porsche, AllState, Arity, Cummins, Avaya and Swisscom<h6>
 
