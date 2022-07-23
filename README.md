@@ -12,9 +12,8 @@
 - 👨‍👩‍👧 Husband and father
 
 <h6>* as the Grape Up employee, I had an opportunity to work on projects for companies like Porsche, AllState, Arity, Cummins, Avaya and Swisscom<h6>
-<br>
 
-<h2 align="left">💬 Contact Me</h3>
+<h3 align="left">💬 Contact</h3>
 <p align="left">
   <a href="mailto:pawel.tymczuk@gmail.com"><img src="./img/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
   <a href="https://github.com/LetItRock"><img src="./img/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
