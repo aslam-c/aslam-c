@@ -12,12 +12,24 @@
 - 👨‍👩‍👧 Husband and father
 
 <h6>* as the Grape Up employee, I had an opportunity to work on projects for companies like Porsche, AllState, Arity, Cummins, Avaya and Swisscom<h6>
+<br>
+
+<h2 align="left">💬 Contact Me</h3>
+<p align="left">
+  <a href="mailto:pawel.tymczuk@gmail.com"><img src="./img/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
+  <a href="https://github.com/LetItRock"><img src="./img/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
+  <a href="https://in.linkedin.com/in/paweltymczuk"><img src="./img/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/paweltymczuk"><img src="./img/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
+</p>
 
 <br>
 <h2 align="left">⚒️ Tech</h2>
 
 > I have experience working with these languages, libraries, tools etc...
 
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="./img/vscode.svg" width="64" height="64" alt="JavaScript" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="./img/javascript.svg" width="64" height="64" alt="JavaScript" />
 </a>
@@ -113,12 +125,10 @@
 </a>
 
 <br/>
-<br/>
+<h2 align="left">📊 Stats</h2>
 
-<h2 align="left">💬 Contact Me</h3>
-<p align="left">
-  <a href="mailto:pawel.tymczuk@gmail.com"><img src="./img/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
-  <a href="https://github.com/LetItRock"><img src="./img/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
-  <a href="https://in.linkedin.com/in/paweltymczuk"><img src="./img/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/paweltymczuk"><img src="./img/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetItRock&layout=compact&title_color=2F67F8&bg_color=fff" alt="LetItRock's Most Used Languages" align="right" width="330">
+
+![LetItRock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LetItRock&show_icons=true&title_color=2F67F8&icon_color=945BF0&text_color=F8049C&bg_color=fff&count_private=true&include_all_commits=true)
+
+![]()
