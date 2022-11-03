@@ -4,7 +4,7 @@
 <h2 align="left">Welcome to my GitHub profile! 🙌</h2>
 <h3 align="left">✨ About Me</h2>
 
-- 💼 Currently working as independent contractor for <a href="https://www.retentionscience.com/">Retention Science</a> by <a href="https://www.constantcontact.com/">Constant Contact</a>
+- 💼 Senior Fullstack Engineer at <a href="https://novu.co/">Novu</a>
 - 👨‍💻 I have more than 8 years of professional experience
 - 🏢 Worked for companies like\*: Constant Contact, Retention Science, Grape Up, Porsche, Swisscom, Allstate, Arity, Avaya, Cummins, Roam Robotics, Prismake
 - 💡 At work I use: TypeScript/JavaScript, React, NodeJS, Nx, React Testing Library, Cypress and a little Ruby, Rails and MySQL
