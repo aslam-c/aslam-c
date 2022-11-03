@@ -135,8 +135,8 @@
 <br/>
 <h2 align="left">⚙️ What I use</h2>
 <ul>
-  <li><b>OS:</b> macOS Monterey 12.4</li>
-  <li><b>Laptop: </b> MacBook Pro (15-inch, 2018), Processor: 2,2GHz 6-Core Intel Core i7, RAM: 32GB 2400MHz DDR4, Disk: Macintosh HD, Graphics: Radeon Pro 555X 4 GB</li>
+  <li><b>OS:</b> macOS Monterey 12.5.1</li>
+  <li><b>Laptop: </b> MacBook Pro (16-inch, 2021), Processor: Apple M1 Pro, RAM: 32GB, Disk: Macintosh HD 1TB</li>
   <li><b>Screen:</b> LG Ultrawide 34UC99 Curved</li>
   <li><b>Keyboard:</b> Keychron K3 v2 Optical RGB Brown Switch</li>
   <li><b>Browser: </b> Chrome</li>
