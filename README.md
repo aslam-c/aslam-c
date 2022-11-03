@@ -7,7 +7,7 @@
 - 💼 Senior Fullstack Engineer at <a href="https://novu.co/">Novu</a>
 - 👨‍💻 I have more than 8 years of professional experience
 - 🏢 Worked for companies like\*: Constant Contact, Retention Science, Grape Up, Porsche, Swisscom, Allstate, Arity, Avaya, Cummins, Roam Robotics, Prismake
-- 💡 At work I use: TypeScript/JavaScript, React, NodeJS, Nx, React Testing Library, Cypress and a little Ruby, Rails and MySQL
+- 💡 At work I use: TypeScript/JavaScript, React, NodeJS, NestJS, Nx, React Testing Library, Cypress
 - 🌍 Based in Kraków, Poland 🇵🇱
 - 👨‍👩‍👧 Husband and father
 - 😎 AMA
