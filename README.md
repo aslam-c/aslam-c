@@ -1,4 +1,4 @@
-<img src="https://github.com/LetItRock/LetItRock/blob/main/img/header.png" alt="Hi there, I'm Paweł Tymczuk :wave:" />
+<a href="https://novu.co/"><img src="https://github.com/LetItRock/LetItRock/blob/main/img/header.png" alt="Hi there, I'm Paweł Tymczuk :wave:" /><a/>
 <br>
 
 <h2 align="left">Welcome to my GitHub profile! 🙌</h2>
