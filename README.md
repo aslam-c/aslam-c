@@ -4,7 +4,7 @@
 <h2 align="left">Welcome to my GitHub profile! 🙌</h2>
 <h3 align="left">✨ About Me</h2>
 
-- 💼 Senior Fullstack Engineer at <a href="https://novu.co/">Novu</a>
+- 💼 Team Lead at <a href="https://novu.co/">Novu</a> (before Senior Fullstack Engineer)
 - 👨‍💻 I have more than 8 years of professional experience
 - 🏢 Worked for companies like\*: Constant Contact, Retention Science, Grape Up, Porsche, Swisscom, Allstate, Arity, Avaya, Cummins, Roam Robotics, Prismake
 - 💡 At work I use: TypeScript/JavaScript, React, NodeJS, NestJS, Nx, React Testing Library, Cypress
