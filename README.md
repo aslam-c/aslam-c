@@ -1,16 +1,16 @@
-<a href="https://novu.co/" target="_blank"><img src="https://github.com/LetItRock/LetItRock/blob/main/img/header.png" alt="Hi there, I'm Paweł Tymczuk :wave:" /><a/>
+<a href="https://novu.co/" target="_blank"><img src="https://github.com/LetItRock/LetItRock/blob/main/img/header.png" alt="Hi there, I'm Muhammed Aslam C :wave:" /><a/>
 <br>
 
 <h2 align="left">Welcome to my GitHub profile! 🙌</h2>
 <h3 align="left">✨ About Me</h2>
 
-- 💼 Team Lead at <a href="https://novu.co/">Novu</a> (before Senior Fullstack Engineer)
-- 👨‍💻 I have more than 8 years of professional experience
+- 💼 Team Lead at <a href="https://wac.co/">WAC</a> (before Senior Fullstack Engineer)
+- 👨‍💻 I have more than 6 years of professional experience
 - 🏢 Worked for companies like\*: Constant Contact, Retention Science, Grape Up, Porsche, Swisscom, Allstate, Arity, Avaya, Cummins, Roam Robotics, Prismake
-- 💡 At work I use: TypeScript/JavaScript, React, NodeJS, NestJS, Nx, React Testing Library, Cypress
-- 🌍 Based in Kraków, Poland 🇵🇱
-- 👨‍👩‍👧 Husband and father
-- 😎 AMA
+- 💡 At work I use: TypeScript/JavaScript, NodeJS, NestJS, Nx, React Testing Library, Cypress
+- 🌍 Based in Kerala, India 🇮🇳
+- 👨‍👩‍👧 Husband
+
 
 <h6>* as the Grape Up employee, I had an opportunity to work on projects for companies like Porsche, AllState, Arity, Cummins, Avaya and Swisscom<h6>
 
@@ -39,12 +39,6 @@
 <a href="https://reactjs.org/" target="_blank">
   <img src="./img/reactjs.svg" width="64" height="64" alt="React" />
 </a>
-<a href="https://nextjs.com/" target="_blank">
-  <img src="./img/nextjs.svg" width="64" height="64" alt="React" />
-</a>
-<a href="https://redux.js.org/" target="_blank">
-  <img src="./img/redux.svg" width="64" height="64" alt="React" />
-</a>
 <a href="https://nodejs.org/en/" target="_blank">
   <img src="./img/nodejs.svg" width="64" height="64" alt="CSS" />
 </a>
@@ -53,12 +47,6 @@
 </a>
 <a href="https://graphql.org/" target="_blank">
   <img src="./img/graphql.svg" width="64" height="64" alt="CSS" />
-</a>
-<a href="https://www.cypress.io/" target="_blank">
-  <img src="./img/cypress.svg" width="64" height="64" alt="CSS" />
-</a>
-<a href="https://jestjs.io/" target="_blank">
-  <img src="./img/jest.svg" width="64" height="64" alt="CSS" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="./img/html.svg" width="64" height="64" alt="HTML" />
@@ -93,9 +81,6 @@
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="./img/aws.svg" width="64" height="64" alt="CSS" />
 </a>
-<a href="https://www.jenkins.io/" target="_blank">
-  <img src="./img/jenkins.svg" width="64" height="64" alt="CSS" />
-</a>
 <a href="https://www.postman.com/" target="_blank">
   <img src="./img/postman.svg" width="64" height="64" alt="CSS" />
 </a>
@@ -107,21 +92,6 @@
 </a>
 <a href="https://github.com/" target="_blank">
   <img src="./img/github.svg" width="64" height="64" alt="CSS" />
-</a>
-<a href="https://www.java.com/en/" target="_blank">
-  <img src="./img/java.svg" width="64" height="64" alt="CSS" />
-</a>
-<a href="https://spring.io/" target="_blank">
-  <img src="./img/spring.svg" width="64" height="64" alt="CSS" />
-</a>
-<a href="https://www.android.com/intl/en_US/" target="_blank">
-  <img src="./img/android.svg" width="64" height="64" alt="CSS" />
-</a>
-<a href="https://www.ruby-lang.org/en/" target="_blank">
-  <img src="./img/ruby.svg" width="64" height="64" alt="CSS" />
-</a>
-<a href="https://rubyonrails.org/" target="_blank">
-  <img src="./img/rails.svg" width="64" height="64" alt="CSS" />
 </a>
 
 <br/>
