@@ -18,8 +18,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammed-aslam-5289471a1"><img src="./img/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/MHDASLAMC"><img src="./img/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
-  <a href="mailto:pawel.tymczuk@gmail.com"><img src="./img/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
-  <a href="https://github.com/LetItRock"><img src="./img/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
+  <a href="mailto:muhammedaslamc45@gmail.com"><img src="./img/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
+  <a href="https://github.com/aslam-c"><img src="./img/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
 </p>
 
 <br>
