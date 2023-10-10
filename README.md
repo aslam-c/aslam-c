@@ -9,7 +9,7 @@
 - 🏢 Worked for companies like\*: Constant Contact, Retention Science, Grape Up, Porsche, Swisscom, Allstate, Arity, Avaya, Cummins, Roam Robotics, Prismake
 - 💡 At work I use: TypeScript/JavaScript, NodeJS, NestJS, Nx, React Testing Library, Cypress
 - 🌍 Based in Kerala, India 🇮🇳
-- 👨‍👩‍👧 Husband
+- 👩‍❤️‍👨 Husband
 
 
 <h6>* as the Grape Up employee, I had an opportunity to work on projects for companies like Porsche, AllState, Arity, Cummins, Avaya and Swisscom<h6>
