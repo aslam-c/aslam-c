@@ -93,21 +93,14 @@
 
 <br/>
 <br/>
-<h2 align="left">📊 Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetItRock&layout=compact&title_color=2F67F8&bg_color=fff" alt="LetItRock's Most Used Languages" align="right" width="330">
-
-![LetItRock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LetItRock&show_icons=true&title_color=2F67F8&icon_color=945BF0&text_color=F8049C&bg_color=fff&count_private=true&include_all_commits=true)
 
 <br/>
 <h2 align="left">⚙️ What I use</h2>
 <ul>
-  <li><b>OS:</b> macOS Monterey 12.5.1</li>
-  <li><b>Laptop: </b> MacBook Pro (16-inch, 2021), Processor: Apple M1 Pro, RAM: 32GB, Disk: Macintosh HD 1TB</li>
-  <li><b>Screen:</b> LG Ultrawide 34UC99 Curved</li>
-  <li><b>Keyboard:</b> Keychron K3 v2 Optical RGB Brown Switch</li>
+  <li><b>OS:</b>macOS 13 (Ventura) </li>
+  <li><b>Laptop: </b> MacBook Pro (13-inch), Processor: Apple M2 Pro, RAM: 8GB, Disk: Macintosh HD 256GB</li>
   <li><b>Browser: </b> Chrome</li>
-  <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+  <li><b>Terminal: </b> Bash</li>
   <li><b>Code Editor:</b> VSCode</li>
-  <li><b>To Stay Updated:</b> Twitter, daily.dev, Medium, web.dev, Youtube, Codrops, GitHub</li>
+  <li><b>To Stay Updated:</b> Twitter, daily.dev, Medium, web.dev, Youtube, Laravel News, GitHub</li>
 </ul>	
