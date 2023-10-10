@@ -1,4 +1,4 @@
-<a href="https://aslam-c.github. io/" target="_blank"><img src="https://github.com/aslam-c/aslam-c/blob/main/img/header. jpg" alt="Hi there, I'm Muhammed Aslam C :wave:" /><a/>
+<a href="https://aslam-c.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/aslam-c/aslam-c/main/img/header.jpg" alt="Hi there, I'm Muhammed Aslam C :wave:" /><a/>
 <br>
 
 <h2 align="left">Welcome to my GitHub profile! 🙌</h2>
