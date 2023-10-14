@@ -7,7 +7,7 @@
 - 💼 Team Lead at <a href="https://wac.co/">WAC</a> (before Senior Fullstack Engineer)
 - 👨‍💻 I have more than 6 years of professional experience
 - 🏢 Worked for companies like\*: Autovert, QoQ Global, Webandcrafts
-- 💡 At work I use: TypeScript/JavaScript, NodeJS, NestJS, AdonisJS, React 
+- 💡 At work I use: TypeScript/JavaScript, NodeJS, NestJS, AdonisJS, React
 - 🌍 Based in Kerala, India 🇮🇳
 - 👩‍❤️‍👨 Husband
 
@@ -36,6 +36,9 @@
 <a href="https://reactjs.org/" target="_blank">
   <img src="./img/reactjs.svg" width="64" height="64" alt="React" />
 </a>
+<a href="https://vuejs.org/" target="_blank">
+  <img src="./img/vuejs.svg" width="64" height="64" alt="Vue" />
+</a>
 <a href="https://nodejs.org/en/" target="_blank">
   <img src="./img/nodejs.svg" width="64" height="64" alt="CSS" />
 </a>
@@ -51,9 +54,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="./img/css.svg" width="64" height="64" alt="CSS" />
 </a>
-<a href="https://sass-lang.com/" target="_blank">
+<!-- <a href="https://sass-lang.com/" target="_blank">
   <img src="./img/sass.svg" width="64" height="64" alt="CSS" />
-</a>
+</a> -->
 <a href="https://www.nginx.com/" target="_blank">
   <img src="./img/nginx.svg" width="64" height="64" alt="CSS" />
 </a>
@@ -103,4 +106,4 @@
   <li><b>Terminal: </b> Bash</li>
   <li><b>Code Editor:</b> VSCode</li>
   <li><b>To Stay Updated:</b> Twitter, daily.dev, Medium, web.dev, Youtube, Laravel News, GitHub</li>
-</ul>	
+</ul>
