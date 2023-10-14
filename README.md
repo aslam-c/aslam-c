@@ -39,6 +39,10 @@
 <a href="https://vuejs.org/" target="_blank">
   <img src="./img/vuejs.svg" width="64" height="64" alt="Vue" />
 </a>
+<a href="https://laravel.com/" target="_blank">
+  <img src="./img/laravel.svg" width="64" height="64" alt="Laravel" />
+</a>
+
 <a href="https://nodejs.org/en/" target="_blank">
   <img src="./img/nodejs.svg" width="64" height="64" alt="CSS" />
 </a>
