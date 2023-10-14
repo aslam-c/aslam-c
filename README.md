@@ -17,6 +17,8 @@
   <a href="https://twitter.com/MHDASLAMC"><img src="./img/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="mailto:muhammedaslamc45@gmail.com"><img src="./img/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
   <a href="https://github.com/aslam-c"><img src="./img/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
+    <a href="https://stackoverflow.com/users/11253114/muhammed-aslam-c"><img src="./img/stack-overflow.svg" width="30px" alt="Stack Overflow"></a> &nbsp; &nbsp;
+
 </p>
 
 <br>
@@ -104,10 +106,10 @@
 <br/>
 <h2 align="left">⚙️ What I use</h2>
 <ul>
-  <li><b>OS:</b>macOS 13 (Ventura) </li>
   <li><b>Laptop: </b> MacBook Pro (13-inch), Processor: Apple M2 Pro, RAM: 8GB, Disk: Macintosh HD 256GB</li>
+  <li><b>OS: </b>macOS 13 (Ventura) </li>
   <li><b>Browser: </b> Chrome</li>
   <li><b>Terminal: </b> Bash</li>
-  <li><b>Code Editor:</b> VSCode</li>
-  <li><b>To Stay Updated:</b> Twitter, daily.dev, Medium, web.dev, Youtube, Laravel News, GitHub</li>
+  <li><b>Code Editor: </b> VSCode</li>
+  <li><b>To Stay Updated: </b> Twitter, daily.dev, Medium, web.dev, Youtube, Laravel News, GitHub</li>
 </ul>
