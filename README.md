@@ -18,6 +18,7 @@
   <a href="mailto:muhammedaslamc45@gmail.com"><img src="./img/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
   <a href="https://github.com/aslam-c"><img src="./img/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
     <a href="https://stackoverflow.com/users/11253114/muhammed-aslam-c"><img src="./img/stack-overflow.svg" width="30px" alt="Stack Overflow"></a> &nbsp; &nbsp;
+    <a href="https://www.npmjs.com/~aslam-c"><img src="./img/npm-2.svg" alt="npmjs"></a>
 
 </p>
 
