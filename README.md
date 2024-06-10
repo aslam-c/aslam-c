@@ -9,7 +9,7 @@
 - 🏢 Worked for companies like\*: Autovert, QoQ Global, Webandcrafts
 - 💡 At work I use: TypeScript/JavaScript, NodeJS, NestJS, AdonisJS, React
 - 🌍 Based in Kerala, India 🇮🇳
-- 👩‍❤️‍👨 Husband
+- 👪 Father
 
 <h3 align="left">💬 Contact</h3>
 <p align="left">
