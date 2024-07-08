@@ -51,7 +51,7 @@
   <img src="./img/nodejs.svg" width="64" height="64" alt="CSS" />
 </a>
 <a href="https://expressjs.com/" target="_blank">
-  <img src="./img/express.svg" width="64" height="64" alt="CSS" />
+  <img src="./img/expressjs.svg" width="64" height="64" alt="CSS" />
 </a>
 <a href="https://graphql.org/" target="_blank">
   <img src="./img/graphql.svg" width="64" height="64" alt="CSS" />
