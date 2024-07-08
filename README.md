@@ -19,6 +19,7 @@
   <a href="https://github.com/aslam-c"><img src="./img/github-white.png" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
     <a href="https://stackoverflow.com/users/11253114/muhammed-aslam-c"><img src="./img/stack-overflow.svg" width="30px" alt="Stack Overflow"></a> &nbsp; &nbsp;
     <a href="https://www.npmjs.com/~aslam-c"><img width="30px" src="./img/npm-2.svg" alt="npmjs"></a>
+  <a href="https://medium.com/@muhammedaslamc"><img width="30px" src="./img/medium.svg" alt="Medium"></a>
 
 </p>
 
