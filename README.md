@@ -4,7 +4,7 @@
 <h2 align="left">Welcome to my GitHub profile! 🙌</h2>
 <h3 align="left">✨ About Me</h2>
 
-- 💼 Team Lead at <a href="https://wac.co/">WAC</a> (before Senior Fullstack Engineer)
+- 💼 Senior Software Engineer at <a href="https://inapp.com/">InApp</a>
 - 👨‍💻 I have more than 6 years of professional experience
 - 🏢 Worked for companies like\*: Autovert, QoQ Global, Webandcrafts
 - 💡 At work I use: TypeScript/JavaScript, NodeJS, NestJS, AdonisJS, React
