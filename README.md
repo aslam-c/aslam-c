@@ -13,14 +13,14 @@
 
 <h3 align="left">💬 Contact</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammed-aslam-5289471a1"><img src="./img/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/muhammed-aslam-c"><img src="./img/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/MHDASLAMC"><img src="./img/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="mailto:muhammedaslamc45@gmail.com"><img src="./img/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
   <a href="https://github.com/aslam-c"><img src="./img/github-white.png" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
     <a href="https://stackoverflow.com/users/11253114/muhammed-aslam-c"><img src="./img/stack-overflow.svg" width="30px" alt="Stack Overflow"></a> &nbsp; &nbsp;
     <a href="https://www.npmjs.com/~aslam-c"><img width="30px" src="./img/npm-2.svg" alt="npmjs"></a>
   <a href="https://medium.com/@muhammedaslamc"><img width="30px" src="./img/medium.svg" alt="Medium"></a>
-
+  <a href="https://leetcode.com/u/aslam-cc/"><img width="30px" src="./img/leetcode.png" alt="Leetcode"></a>
 </p>
 
 <br>
